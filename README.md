@@ -7,5 +7,5 @@ Este projeto foi criado para armazenar alguns exercícios que eu resolvi em Pyth
 
 ### Install
 '''
-Até o momento não é preciso nehum
+Até o momento não é preciso nenhum
 '''
